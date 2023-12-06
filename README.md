@@ -8,7 +8,7 @@ JCCL Code es un startup inspirada por la innovación y el desarrollo digital de 
 - Email: jcclcode@gmail.com
 - [Instagram](https://www.instagram.com/jccl.code)
 - [Twitter](https://twitter.com/JCCL_code)
-- [Github](https://github.com/JCCL-Code)
+- [GitHub](https://github.com/JCCL-Code)
 - Portafolio: Aquí iria el portafolio
   
 
