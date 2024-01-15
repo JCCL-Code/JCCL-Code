@@ -1,8 +1,8 @@
-<h1 align="center">JCCL - Code</h1>
+<h1 align="center">Q-dev</h1>
 
 ### Acerca de nosotros 😎
 
-JCCL Code es un startup inspirada por la innovación y el desarrollo digital de alta calidad. Nuestro equipo está formado por profesionales creativos y comprometidos que comparten la visión de crear impacto a través de la transformación de ideas de nuestros clientes a código.
+Q-dev es un startup inspirada por la innovación y el desarrollo digital de alta calidad. Nuestro equipo está formado por profesionales creativos y comprometidos que comparten la visión de crear impacto a través de la transformación de ideas de nuestros clientes a código.
 
 **Links de contacto:**
 | [Instagram](https://www.instagram.com/jccl.code) |
@@ -11,7 +11,7 @@ JCCL Code es un startup inspirada por la innovación y el desarrollo digital de 
 
 ### ¿Qué Hacemos? ✍️
 
-En JCCL Code, nos dedicamos a la creación de aplicaciones web y móviles full stack, y consultoría tecnológica. Nuestro enfoque se centra en la excelencia técnica y la satisfacción del cliente. Trabajamos estrechamente con nuestros clientes para comprender sus necesidades específicas y ofrecer soluciones que impulsen su éxito.
+En Q-dev, nos dedicamos a la creación de aplicaciones web y móviles full stack, y consultoría tecnológica. Nuestro enfoque se centra en la excelencia técnica y la satisfacción del cliente. Trabajamos estrechamente con nuestros clientes para comprender sus necesidades específicas y ofrecer soluciones que impulsen su éxito.
 
 
 ### Tecnologías que Utilizamos? 💻
@@ -22,11 +22,11 @@ En JCCL Code, nos dedicamos a la creación de aplicaciones web y móviles full s
 
 ### Nuestra Visión
 
-En JCCL Code, aspiramos a ser líderes en la industria tecnológica, destacándonos por nuestra creatividad, ética de trabajo sólida y el valor excepcional que aportamos a cada proyecto. Buscamos no solo satisfacer, sino superar las expectativas de nuestros clientes, estableciendo relaciones a largo plazo basadas en la confianza y la colaboración continua.
+En Q-dev, aspiramos a ser líderes en la industria tecnológica, destacándonos por nuestra creatividad, ética de trabajo sólida y el valor excepcional que aportamos a cada proyecto. Buscamos no solo satisfacer, sino superar las expectativas de nuestros clientes, estableciendo relaciones a largo plazo basadas en la confianza y la colaboración continua.
 
 
 
 ---
 
 
-<p align="center">© 2023 JCCL Code. Todos los derechos reservados.</p>
+<p align="center">© 2024 Q-dev. Todos los derechos reservados.</p>
